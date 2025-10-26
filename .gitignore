@@ -1,0 +1,6 @@
+
+data/*
+!data/README.md
+!data/*_sample.csv
+!data/*.sha256
+!data/split_indices.json
