@@ -1,0 +1,15 @@
+{
+  "model": "logreg",
+  "vectorizer": "tfidf",
+  "ngram_max": 2,
+  "max_features": 50000,
+  "C": 2.0,
+  "test_size": 0.2,
+  "random_state": 42,
+  "metrics": {
+    "accuracy": 0.906,
+    "precision": 0.8997636864907443,
+    "recall": 0.9138,
+    "f1": 0.9067275253026394
+  }
+}
